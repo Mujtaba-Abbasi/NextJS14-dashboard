@@ -1,3 +1,3 @@
-import { Lunasima } from 'next/font/google';
+import { Lusitana } from 'next/font/google';
 
-export const lunasima = Lunasima({ weight: '400', subsets: ['cyrillic'] });
+export const lusitana = Lusitana({ weight: '400', subsets: ['latin'] });
